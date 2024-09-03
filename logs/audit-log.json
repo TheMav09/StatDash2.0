@@ -1,0 +1,277 @@
+[
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-11T02:41:15.660Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-11T03:34:24.046Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-11T03:34:26.698Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-11T03:34:28.888Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-11T03:34:59.544Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-13T13:37:23.657Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pusscdwsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-13T13:37:35.644Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "PDCAPI01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-13T13:37:36.548Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-13T15:07:01.802Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-13T15:07:29.074Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pusscdwsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-17T03:53:27.632Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-17T03:53:28.848Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "PDCAPI01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-17T03:53:29.810Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-20T16:34:00.496Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pusscdwsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-20T16:34:01.536Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "PDCAPI01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-20T16:34:02.346Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-22T15:55:35.781Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pusscdwsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-22T15:55:36.636Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "PDCAPI01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-22T15:55:37.373Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-22T15:58:38.280Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pusscdwsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-22T15:58:53.037Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "PDCAPI01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-22T15:58:53.977Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "PDCAPI01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-22T17:55:49.457Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pusscdwsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-22T18:44:36.305Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  },
+  {
+    "vmName": "pussccpsql01",
+    "action": "Acknowledgment cleared",
+    "clearedBy": "Joshua Moorehead - Administrator",
+    "clearedAt": "2024-08-22T18:44:37.036Z",
+    "adminDetails": {
+      "username": "adm02129@senderrarx.com",
+      "name": "Joshua Moorehead - Administrator",
+      "tenantId": "a03379ca-3d63-49cf-a6b8-6a84704c5efc"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+/* Home.module.css */
+
+.container {
+  text-align: center;
+  padding: 20px;
+  background: url('/Senderra_Background.png') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  color: white;
+  background-color: #0078d4;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #005a9e;
+}

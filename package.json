@@ -1,0 +1,44 @@
+{
+  "name": "statdash",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "node server.js",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@azure/arm-compute": "^21.6.0",
+    "@azure/arm-monitor": "^7.0.0",
+    "@azure/arm-resourcegraph": "^4.2.1",
+    "@azure/identity": "^4.4.1",
+    "@azure/msal-browser": "^3.18.0",
+    "@azure/msal-node": "^2.10.0",
+    "@azure/msal-react": "^2.0.20",
+    "axios": "^1.7.2",
+    "chart.js": "^4.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "next": "14.2.4",
+    "qs": "^6.12.1",
+    "react": "^18",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

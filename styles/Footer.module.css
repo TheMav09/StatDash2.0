@@ -1,0 +1,22 @@
+/* Base Styles - Mobile First */
+
+/* Footer container */
+.footer {
+  background-color: #2A9D8F; /* Consistent color scheme */
+  color: white;
+  text-align: center;
+  padding: 10px 15px; /* Adjusted padding for mobile */
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box; /* Ensure padding is included in width calculation */
+  z-index: 1000; /* Ensure footer is always on top */
+}
+
+/* Media queries for larger screens */
+@media (min-width: 768px) {
+  .footer {
+    padding: 10px 20px; /* Increase padding for larger screens */
+  }
+}
